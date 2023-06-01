@@ -9,7 +9,7 @@ fetch('data.json')
     respuesta.works.forEach(element => {
         codigo_HTML += "<li>" + element.empresa + "-" + element.ubicacion + "</li>"
     });
-    codigo_HTML = "</ul>"
+    codigo_HTML += "</ul>"
     elemento.innerHTML = codigo_HTML;
 })
 .catch(error => {
