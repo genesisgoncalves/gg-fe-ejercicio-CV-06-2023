@@ -1,0 +1,30 @@
+{
+    "nombre":"Génesis Goncalves",
+    "email": "g88buznego@gmail.com",
+    "edad": 25,
+    "work": [
+        {
+            "empresa": "Smartbrand",
+            "ubicacion": "Barcelona",
+            "f-inicio": "2021",
+            "f-fin": "2022"
+        },
+        {
+            "empresa": "Smartbrand",
+            "ubicacion": "Barcelona",
+            "f-inicio": "2021",
+            "f-fin": "2022"
+        },
+        {
+            "empresa": "Smartbrand",
+            "ubicacion": "Barcelona",
+            "f-inicio": "2021",
+            "f-fin": "2022"
+        }
+    ],
+    "softskills": [
+        "creatividad", 
+        "puntualidad", 
+        "responsabilidad"
+    ]
+}
