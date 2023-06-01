@@ -7,7 +7,7 @@ fetch('data.json')
     codigo_HTML += "<h2>" + respuesta.email + "</h2>";
     codigo_HTML += "<ul>";
     respuesta.works.forEach(element => {
-        codigo_HTML += "<li>" + element.empresa + "-" + element.ubicacion + "</li>"
+        codigo_HTML += "<li>" + element.empresa + "-" + element.ubicacion + "<br>" + element.f_inicio + "-" + element.f_fin +"</li>"
     });
     codigo_HTML += "</ul>"
     elemento.innerHTML = codigo_HTML;
