@@ -1,30 +1,30 @@
 {
-    "nombre":"Génesis Goncalves",
-    "email":"g88buznego@gmail.com",
-    "edad":25,
-    "works": [
-        {
-            "empresa": "Smartbrand",
-            "ubicacion": "Barcelona",
-            "f_inicio": "2021",
-            "f_fin": "2022"
-        },
-        {
-            "empresa": "Smartbrand",
-            "ubicacion": "Barcelona",
-            "f_inicio": "2021",
-            "f_fin": "2022"
-        },
-        {
-            "empresa": "Smartbrand",
-            "ubicacion": "Barcelona",
-            "f_inicio": "2021",
-            "f_fin": "2022"
-        }
-    ],
-    "softskills": [
-        "creatividad", 
-        "puntualidad", 
-        "responsabilidad"
-    ]
+  "nombre": "Genesis Goncalves",
+  "email": "g88buznego@gmail.com",
+  "edad": 25,
+  "works": [
+    {
+      "empresa": "Smartbrand",
+      "ubicacion": "Barcelona",
+      "f_inicio": "2021",
+      "f_fin": "2022"
+    },
+    {
+      "empresa": "Smartbrand",
+      "ubicacion": "Madrid",
+      "f_inicio": "2021",
+      "f_fin": "2022"
+    },
+    {
+      "empresa": "Smartbrand",
+      "ubicacion": "Barcelona",
+      "f_inicio": "2021",
+      "f_fin": "2022"
+    }
+  ],
+  "softskills": [
+    "creatividad",
+    "puntualidad",
+    "responsabilidad"
+  ]
 }
